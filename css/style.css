@@ -59,7 +59,10 @@ h1, h2 {
     width: 94px;
     height: 95px;
     margin: -147px auto 11px auto;
-    background-image: url(icon.png);
+    border-radius: 50%;
+    background-image:  url(../css/icon.png|), linear-gradient(to right, #539fff, #8d76c2);
+    background-repeat: no-repeat;
+
 }
 .block-form .caption{
     font-weight: bold;
