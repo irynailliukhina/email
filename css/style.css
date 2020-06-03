@@ -60,7 +60,7 @@ h1, h2 {
     height: 95px;
     margin: -147px auto 11px auto;
     border-radius: 50%;
-    background-image:  url(../css/icon.png|), linear-gradient(to right, #539fff, #8d76c2);
+    background-image:  url(../css/icon.png), linear-gradient(to right, #539fff, #8d76c2);
     background-repeat: no-repeat;
 
 }
